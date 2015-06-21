@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GetUrPhone</string>
+
+    <string name="hello_world"> world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
